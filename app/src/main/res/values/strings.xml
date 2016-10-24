@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_detail">DetailMovie</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_token">Your Token Here</string>
+    <string name="action_sort_popular">Sort by Popularity</string>
+    <string name="action_sort_rating">Sort by Rating</string>
+
+    <!-- Settings Pref -->
+    <string name="pref_sort_key" translatable="false">sort</string>
+    <string name="pref_sort_label">Sort By</string>
+    <string name="pref_sort_label_popular">Popularity</string>
+    <string name="pref_sort_label_rating">Rating</string>
+    <string name="pref_sort_popular">popular</string>
+    <string name="pref_sort_rating">top_rated</string>
+
+    <!-- Data from main activity to detail -->
+    <string name="detail_title" translatable="false">title</string>
+    <string name="detail_posterUrl" translatable="false">posterUrl</string>
+    <string name="detail_overview" translatable="false">overview</string>
+    <string name="detail_rating" translatable="false">rating</string>
+    <string name="detail_releaseDate" translatable="false">releaseDate</string>
+
+
+
+</resources>
